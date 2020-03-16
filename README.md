@@ -23,7 +23,6 @@ source("CreditGrowth_JIMF_UnknonwComp.r")
 * **Kuo-Jung Lee** - *Maintainer* - [Research NCKU](https://researchoutput.ncku.edu.tw/en/persons/kuo-jung-lee)
 * **Yi-Chi Chen** - *Statistical analysis* - [Research NCKU](https://researchoutput.ncku.edu.tw/en/persons/yi-chi-chen)
 * **Martin Feldkircher** - *Statistical model developer* - [Research NCKU](http://feldkircher.gzpace.net)
-* **Min-Sun Kwak** - *Data provider* - [Oesterreichische Nationalbank](https://snucm.elsevierpure.com/en/persons/min-sun-kwak)
 
 
 ## Acknowledgments
