@@ -1,13 +1,13 @@
-# Determination of Correlations in Multivariate Longitudinal Data using Bayesian Variable Selection 
+# Bayesian variable selection in finite mixture of regression models with an unknown number of components 
 
-A Bayesian framework for multivariate longitudinal data analysis with the focus on selection of important elements in the generalized autoregressive matrix. An efficient Gibbs sampling algorithms is developed for the proposed model. 
+A feasible reversible jump Markov Chain Monte Carlo algorithm is implmented to Bayesian variable selection in the finite mixture models to deal with model selection and the selection of the number of mixture components simultaneously.
 
 ## Installing
 
 You can install MLModelSelection from CRAN:
 
 ```
-install.packages("MLModelSelection")
+install.packages("UnknownCompFMR")
 ```
 
 ## Running the tests
