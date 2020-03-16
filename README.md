@@ -15,15 +15,15 @@ install.packages("UnknownCompFMR")
 You can run the simulation study in R 
 
 ```
-source("MultivariateLongitudinal_Simulation_MissingValue.r")
+source("CreditGrowth_JIMF_UnknonwComp.r")
 ```
 
 ## Authors
 
 * **Kuo-Jung Lee** - *Maintainer* - [Research NCKU](https://researchoutput.ncku.edu.tw/en/persons/kuo-jung-lee)
-* **Keunbaik Lee** - *Statistical model developer* - [College of Economics, Sungkyunkwan University](https://ecostat.skku.edu/eng_ecostat/intro/faculty_stat.do?mode=view&perId=LZStrJoYwog1ASgzANgBgNYE8BaAnAGgVgOIo4AOAYgHYCMAggLw1A%20&)
-* **Ray-Bing Chen** - *Statistical model developer* - [Research NCKU](https://researchoutput.ncku.edu.tw/en/persons/ray-bing-chen)
-* **Min-Sun Kwak** - *Data provider* - [SNU MEDICINE](https://snucm.elsevierpure.com/en/persons/min-sun-kwak)
+* **Yi-Chi Chen** - *Statistical analysis* - [Research NCKU](https://researchoutput.ncku.edu.tw/en/persons/yi-chi-chen)
+* **Martin Feldkircher** - *Statistical model developer* - [Research NCKU](http://feldkircher.gzpace.net)
+* **Min-Sun Kwak** - *Data provider* - [Oesterreichische Nationalbank](https://snucm.elsevierpure.com/en/persons/min-sun-kwak)
 
 
 ## Acknowledgments
