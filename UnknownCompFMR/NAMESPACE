@@ -1,0 +1,4 @@
+useDynLib(UnknownCompFMR, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern(VariableSelectionUnknowCompFMR)
+

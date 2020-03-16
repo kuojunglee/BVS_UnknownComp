@@ -1,0 +1,11 @@
+Package: UnknownCompFMR
+Type: Package
+Title: Variable selection to the finite mixture model with unknown components
+Version: 2.0
+Date: 2016-12-05
+Author: Kuo-Jung Lee
+Maintainer: Kuo-Jung Lee <kuojunglee@mail.ncku.edu.tw>
+Description: Perform reversible jump MCMC (RJMCMC) in variable selection to the finite mixture model with unknown components.
+License: GPL-2
+Imports: Rcpp (>= 1.0.1)
+LinkingTo: Rcpp, RcppArmadillo
